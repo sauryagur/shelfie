@@ -435,4 +435,4 @@ VALUES
 (24, 'The Egg', 'Andy Weir', 'Short Story', 299.99, 5);
 ```
 
-WARNING: This will reset the database.
+WARNING: This will reset the database and rewrite the data with boilerplate values.
