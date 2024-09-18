@@ -71,7 +71,7 @@ def update_book():
     connection.commit()
     print("Data updated successfully!")
 
-
+#testmessage
 def search_books():
     keyword = input("Enter a keyword to search for books: ")
     cursor.execute("SELECT * FROM books WHERE title LIKE %s OR author LIKE %s OR genre LIKE %s",
