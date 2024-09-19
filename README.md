@@ -71,12 +71,6 @@ VALUES
 (24, 'The Egg', 'Andy Weir', 'Short Story', 299.99, 5);
 ```
 
-![Untitled](S%20H%20E%20L%20F%20I%20E%20041f3d3bff81465d98978c496bfb1048/Untitled.png)
-
-![Untitled](S%20H%20E%20L%20F%20I%20E%20041f3d3bff81465d98978c496bfb1048/Untitled%201.png)
-
-![Untitled](S%20H%20E%20L%20F%20I%20E%20041f3d3bff81465d98978c496bfb1048/Untitled%202.png)
-
 # Additional Versions
 
 [tabularshelfie.py](S%20H%20E%20L%20F%20I%20E%20041f3d3bff81465d98978c496bfb1048/tabularshelfie.py)
