@@ -1,5 +1,5 @@
 # S.H.E.L.F.I.E.
-
+## **Made by Saurya Gur for class 12th Computer Science.**
 **S.H.E.L.F.I.E: Simplified Handling for Electronic Library and Inventory Efficiency**
 
 S.H.E.L.F.I.E is a comprehensive software program meticulously designed to streamline and enhance the management of your library's inventory with unparalleled efficiency. Leveraging a user-friendly interface and a robust set of commands, S.H.E.L.F.I.E empowers librarians and administrators to effortlessly oversee their collection and optimize operations. Here's a glimpse of its key features and commands:
@@ -15,8 +15,6 @@ S.H.E.L.F.I.E is a comprehensive software program meticulously designed to strea
 **5. Record Sale:** Manage book sales and transactions seamlessly. S.H.E.L.F.I.E’s integrated sales recording system ensures you can keep detailed records of all transactions, whether you're selling books to library members or for fundraising purposes.
 
 S.H.E.L.F.I.E is designed with a minimalistic user-friendly keyboard based interface, ensuring that both experienced librarians and beginners can navigate the program with ease. Say goodbye to the complexities of traditional inventory management and embrace the modern, efficient approach with S.H.E.L.F.I.E. It offers a simple solution for electronic library and inventory management that can save you time and enhance your library's overall efficiency.
-
-**Made by Saurya Gur (XII-E) for Computer Science.**
 
 ## Prerequisites
 
